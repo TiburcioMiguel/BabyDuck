@@ -16,4 +16,4 @@ ENTER
 DELAY 3000
 STRING wmic
 ENTER
-STRING product where name="<PROGRAM YOU WANT TO UNINSTALL" call uninstall
+STRING product where name="<PROGRAM YOU WANT TO UNINSTALL>" call uninstall
